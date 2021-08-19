@@ -11,7 +11,7 @@ assignees: abeyad
 A clear and concise description of what the issue is.
 
 **Environment:**
- - Chrome Version: [obtained from About->About Google Chrome]
+ - Chrome Version: [obtained from chrome://version]
  - OS: [e.g. iOS]
  - Sites, if applicable: [e.g. youtube.com]
 
